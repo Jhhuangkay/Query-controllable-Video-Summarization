@@ -1,2 +1,4 @@
 # Query-controllable-Video-Summarization
-We will upload the code and dataset after our Query-controllable-Video-Summarization ICMR-2020 paper is published.
+
+Python 2.7.16
+torch 1.1.0
